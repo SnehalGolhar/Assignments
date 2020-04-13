@@ -2,7 +2,6 @@ import React from "react";
 
 import { Card, Image } from "semantic-ui-react";
 import { Remarkable } from "remarkable";
-import "./Post.css";
 
 const getMarkup = (text) => {
   if (text) {

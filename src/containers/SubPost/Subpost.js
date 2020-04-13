@@ -1,7 +1,6 @@
 import React from "react";
 
 import Post from "../Post/Post";
-import "./Subpost.css";
 
 const Subpost = ({ posts }) => (
   <div style={{ margin: "2rem" }}>
